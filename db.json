@@ -23,18 +23,7 @@
               "sifreRazreda": [
                 1,2,3
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sifra": "string",
-      "podsifra": "string",
-      "skolskeGodine": [
-        {
-          "skolskaGodinaId": 2,
-          "odjeljenja": [
+            },
             {
               "odjeljenjeId": 2,
               "oznakaOdjeljenja": "string",
@@ -42,7 +31,7 @@
               "posebniOdjel": true,
               "sifraVrsteOdjeljenja": 0,
               "razrednik": {
-                "akademskiStrucniNazivId": 0,
+                "akademskiStrucniNazivId": 1,
                 "ime": "string",
                 "prezime": "string",
                 "oib": "string",
