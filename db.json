@@ -21,7 +21,7 @@
                 "djelatnikId": 1
               },
               "sifreRazreda": [
-                1,2,3
+                {1},{2},{3}
               ]
             },
             {
@@ -38,7 +38,7 @@
                 "djelatnikId": 2
               },
               "sifreRazreda": [
-                4,5,6
+                {4},{5},{6}
               ]
             }
           ]
