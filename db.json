@@ -1,0 +1,60 @@
+{
+  "entities": [
+    {
+      "sifra": "string",
+      "podsifra": "string",
+      "skolskeGodine": [
+        {
+          "skolskaGodinaId": 1,
+          "odjeljenja": [
+            {
+              "odjeljenjeId": 1,
+              "oznakaOdjeljenja": "string",
+              "aktivno": true,
+              "posebniOdjel": true,
+              "sifraVrsteOdjeljenja": 0,
+              "razrednik": {
+                "akademskiStrucniNazivId": 1,
+                "ime": "string",
+                "prezime": "string",
+                "oib": "string",
+                "djelatnikId": 1
+              },
+              "sifreRazreda": [
+                1,2,3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sifra": "string",
+      "podsifra": "string",
+      "skolskeGodine": [
+        {
+          "skolskaGodinaId": 2,
+          "odjeljenja": [
+            {
+              "odjeljenjeId": 2,
+              "oznakaOdjeljenja": "string",
+              "aktivno": true,
+              "posebniOdjel": true,
+              "sifraVrsteOdjeljenja": 0,
+              "razrednik": {
+                "akademskiStrucniNazivId": 0,
+                "ime": "string",
+                "prezime": "string",
+                "oib": "string",
+                "djelatnikId": 2
+              },
+              "sifreRazreda": [
+                4,5,6
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
