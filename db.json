@@ -21,7 +21,15 @@
                 "djelatnikId": 1
               },
               "sifreRazreda": [
-                {1},{2},{3}
+                {
+                  "sifraRazreda": 1
+                },
+                {
+                  "sifraRazreda": 2
+                },
+                {
+                  "sifraRazreda": 3
+                }
               ]
             },
             {
@@ -38,7 +46,15 @@
                 "djelatnikId": 2
               },
               "sifreRazreda": [
-                {4},{5},{6}
+                {
+                  "sifraRazreda": 4
+                },
+                {
+                  "sifraRazreda": 5
+                },
+                {
+                  "sifraRazreda": 6
+                }
               ]
             }
           ]
