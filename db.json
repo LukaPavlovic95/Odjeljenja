@@ -9,12 +9,12 @@
           "odjeljenja": [
             {
               "odjeljenjeId": 1,
-              "oznakaOdjeljenja": "string",
+              "oznakaOdjeljenja": "OznakaPrvogOdjeljenja",
               "aktivno": true,
               "posebniOdjel": true,
-              "sifraVrsteOdjeljenja": 0,
+              "sifraVrsteOdjeljenja": 1,
               "razrednik": {
-                "akademskiStrucniNazivId": 1,
+                "akademskiStrucniNazivId": 2,
                 "ime": "string",
                 "prezime": "string",
                 "oib": "string",
@@ -34,10 +34,10 @@
             },
             {
               "odjeljenjeId": 2,
-              "oznakaOdjeljenja": "string",
+              "oznakaOdjeljenja": "OznakaDrugogOdjeljenja",
               "aktivno": true,
               "posebniOdjel": true,
-              "sifraVrsteOdjeljenja": 0,
+              "sifraVrsteOdjeljenja": 2,
               "razrednik": {
                 "akademskiStrucniNazivId": 1,
                 "ime": "string",
